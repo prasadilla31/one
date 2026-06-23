@@ -737,7 +737,7 @@
                 icon: 'fa-tshirt'
             },
             {
-                id: 'gadgets',
+                id: 'gadget',
                 name: 'Gadgets',
                 icon: 'fa-headphones'
             },
